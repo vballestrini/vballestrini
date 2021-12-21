@@ -3,7 +3,7 @@
 <h1 align="center">Nice to see you in here! I'm Víctor</h1>
 <h3 align="center">a full-stack engineer based in Brazil.</h3>
 
-- Full-stack developer <a href="https://www.sicoobcredimepi.com.br/">Sicoob Credimepi</a>
+- Full-stack developer at <a href="https://www.sicoobcredimepi.com.br/">Sicoob Credimepi</a>
 - 🔭 Currently working on building better support applications for my coworkers.
 - 🌱 I’m currently studying smart cities and governments, searching for an opportunity in this amazing field.
 
