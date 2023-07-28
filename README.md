@@ -1,12 +1,11 @@
 ### Hi there 👋, nice to see you in here!
 
-<h1 align="center">I'm Víctor</h1>
-<h3 align="center">a software engineer based in Brazil.</h3>
+<h1>I'm Víctor</h1>
+<h3>a software engineer based in Brazil.</h3>
 
-- 💻 Software developer at <a href="https://www.nelogica.com.br/" target="_blank" rel="noopener">Nelogica</a>
+- 💻 Tech Lead Software Engineer at <a href="https://www.nelogica.com.br/" target="_blank" rel="noopener">Nelogica</a>
 - 🪙 Working on building better APIs for the financial market.
 - 🔭 I’m currently studying smart cities and governments, searching for an opportunity in this amazing field.
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
