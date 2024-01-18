@@ -3,9 +3,9 @@
 <h1>I'm Víctor</h1>
 <h3>a software engineer based in Brazil.</h3>
 
-- 💻 Tech Lead Software Engineer at <a href="https://www.nelogica.com.br/" target="_blank" rel="noopener">Nelogica</a>
+- 💻 Software Development Lead at <a href="https://www.nelogica.com.br/" target="_blank" rel="noopener">Nelogica</a>
 - 🪙 Working on building better APIs for the financial market.
-- 🔭 I’m currently studying smart cities and governments, searching for an opportunity in this amazing field.
+- 🔭 I’m currently studying smart cities and governments.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
