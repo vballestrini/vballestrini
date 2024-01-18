@@ -1,5 +1,5 @@
-<h1>I'm Víctor</h1>
-<h3>a software engineer based in Brazil.</h3>
+<h1>Víctor Ballestrini</h1>
+<h3>Software engineer based in Brazil.</h3>
 
 - 💻 Software Development Lead at <a href="https://www.nelogica.com.br/" target="_blank" rel="noopener">Nelogica</a>
 - 🪙 Working on building better APIs for the financial market.
