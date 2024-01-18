@@ -1,5 +1,3 @@
-### Hi there 👋, nice to see you in here!
-
 <h1>I'm Víctor</h1>
 <h3>a software engineer based in Brazil.</h3>
 
